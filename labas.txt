@@ -1,4 +1,4 @@
-
+﻿
 
 	Labas tekstinis faile
-	bandomasis tekstas su Scite tekstų redaktoriumi
+	bet koks tekstas su Scite tekstų redaktoriumi
