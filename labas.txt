@@ -1,3 +1,4 @@
 
 
 	Labas tekstinis faile
+	bandomasis tekstas su Scite tekstų redaktoriumi
