@@ -1,4 +1,5 @@
 
 
 	Labas tekstinis faile
-	bandomasis tekstas su Scite tekstų redaktoriumi
+	bandomasis tekstas su tekstų redaktoriumi Scite (pakeista eilutė)
+	papildyta eilutė
